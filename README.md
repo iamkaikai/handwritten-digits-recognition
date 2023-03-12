@@ -1,0 +1,2 @@
+# Hand handwritten digits recognition in python
+This Github repository contains a machine learning model for recognizing handwritten digits. The model was created from the ground up using linear algebra, making it easy to understand and customize. It provides a simple and efficient way to recognize handwritten digits and can be a starting point for more complex image recognition tasks.
